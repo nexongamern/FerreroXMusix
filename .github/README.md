@@ -1,8 +1,8 @@
 <img src="https://te.legra.ph/file/8f642b80115f1e9ba4457.jpg" align="right" width="200" height="200"/>
 
-# Yukki Music Bot <img src="https://img.shields.io/github/v/release/TeamYukki/YukkiMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
+#  𝙵𝚎𝚛𝚛𝚎𝚛𝚘 𝙼𝚞𝚜𝚒𝚌 𝙱𝚘𝚝 <img src="https://img.shields.io/github/v/release/TeamYukki/YukkiMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
 
-[Yukki Music Bot](https://github.com/nexongamern/FerreroXMusix/edit/master/.github) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
+[𝙵𝚎𝚛𝚛𝚎𝚛𝚘 𝙼𝚞𝚜𝚒𝚌 𝙱𝚘𝚝](https://github.com/nexongamern/FerreroXMusix/edit/master/.github) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
 
 * Youtube, Soundcloud, Apple Music, Spotify, Resso and Telegram Audios & Videos support.
 * Written from scratch, making it stable and less crashes.
