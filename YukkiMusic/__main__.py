@@ -15,7 +15,7 @@ from pyrogram import idle
 from pytgcalls.exceptions import NoActiveGroupCall
 
 import config
-from config import API_ID API_HASH BOT_TOKEN MONGO_DB_URI LOG_GROUP_ID MUSIC_BOT_NAME OWNER_ID
+from config import API_ID API_HASH BOT_TOKEN STRING_SESSION MONGO_DB_URI LOG_GROUP_ID MUSIC_BOT_NAME OWNER_ID
 from YukkiMusic import LOGGER, app, userbot
 from YukkiMusic.core.call import Yukki
 from YukkiMusic.plugins import ALL_MODULES
